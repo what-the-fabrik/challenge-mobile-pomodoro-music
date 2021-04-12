@@ -1,6 +1,7 @@
 # PomodoroMusic
 
 Challenge POMODORO en musique
+Ce petit challenge devrait être réalisable en une quinzaine de jours. Tous ceux qui veulent participer sont le bienvenue et si vous êtes nombreux, on peut essayer d'organiser plusieurs groupes pour faire plusieurs applications.
 
 # Description du projet
 
